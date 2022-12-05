@@ -1,0 +1,112 @@
+.add-carriers-btn {
+    position:absolute;
+    right: 15px;
+    font-size: 9px;
+    text-transform: none;
+}
+
+.carriers-table {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 10%;
+}
+
+.carriers-img {
+    color: #fff;
+    background-color: #adb5bd;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+}
+
+.carriers-img img {
+    width: 100%;
+}
+
+.carriers-side-panel {
+    border-right: 1px solid;
+}
+
+.carriers-btn-text {
+    font-size: 10px;
+    text-transform: none;
+}
+
+.carriers-search-input {
+    box-shadow: 2px 2px 3px #666;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    font-size: 20px;
+    padding: 4px 7px;
+    outline: 0;
+}
+
+.carriers-main-page {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.new-carriers-page {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.add-new-carriers-row {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.new-carriers-card {
+    background: #F4F5F7;
+    box-shadow: 0px 15px 35px rgba(50, 50, 93, 0.1), 0px 5px 15px rgba(0, 0, 0, 0.07);
+    border-radius: 4px;
+    height: calc(100vh - 265px)!important;
+    overflow: auto;
+}
+
+.save-carriers {
+    text-align: right;
+}
+
+.carriers-count {
+    border-right: 1px solid rgba(0, 0, 0, 0.25);
+    padding: 8px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 34px;
+    align-items: center;
+    color: #000000;
+}
+
+.carriers-inputs {
+    padding: 8px; 
+}
+
+.carriers-inputs .form-group {
+    margin-bottom: 0rem !important;
+}
+
+.carriers-upload {
+    display: inline-flex;
+    align-items: center;
+}
+
+.add-carrier-btn {
+    justify-content: right;
+}
+
+.new-carriers-card .card-body {
+    padding: 0px !important;
+}
+
+.new-carriers-container {
+  padding-right: 15px
+}
+
+.carriers-file-upload {
+    cursor: pointer;
+}
